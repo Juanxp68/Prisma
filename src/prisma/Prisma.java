@@ -6,9 +6,9 @@
 package prisma;
 
 /**
- *
+ *Clase Prisma Prisma
  * @author Nucks
- * Clase Prisma Prisma
+ * 
  */
 public class Prisma {
 
