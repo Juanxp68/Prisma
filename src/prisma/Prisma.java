@@ -8,10 +8,12 @@ package prisma;
 /**
  *
  * @author Nucks
+ * Clase Prisma Prisma
  */
 public class Prisma {
 
-int baseTriangulo;
+
+    int baseTriangulo;
     int alturaPrisma;	
 
 	 
